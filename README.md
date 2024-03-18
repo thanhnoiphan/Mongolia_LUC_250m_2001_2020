@@ -6,3 +6,6 @@ For more information, the eprint version can be accessed [here](https://www.tand
 
 *Reference* <br>  
 Phan, T. N., Dashpurev, B., Wiemer, F. & Lehnert, L. W. (2022). A simple, fast, and accurate method for land cover mapping in Mongolia. Geocarto International, 1-17, DOI: https://doi.org/10.1080/10106049.2022.2087759
+
+Phan, Thanh-Noi; Dashpurev, Batnyambuu; Wiemer, Felix; Lehnert, Lukas (2022): Land cover classification maps of Mongolia from 2001 to 2020. PANGAEA, https://doi.org/10.1594/PANGAEA.947514
+

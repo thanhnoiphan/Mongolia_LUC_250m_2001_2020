@@ -5,7 +5,7 @@ Several studies have reported inconsistencies among global land cover (GLC) prod
 The overview of the study is shown in the figure below: <br> 
 <img src='https://github.com/thanhnoiphan/Mongolia_LUC_250m_2001_2020/blob/main/Figure_1.jpg' widht='750'> <br> 
 
-For more information, the eprint version can be accessed [here](https://www.tandfonline.com/eprint/FICFII45ACZEY4ZJ6FFN/full?target=10.1080/10106049.2022.2087759). The PDF version can be accessed [here](https://github.com/thanhnoiphan/Mongolia_LUC_250m_2001_2020/blob/main/simple_fast_and_accurate_LUC.pdf).  
+For more information, the eprint version of the paper can be accessed [here](https://www.tandfonline.com/eprint/FICFII45ACZEY4ZJ6FFN/full?target=10.1080/10106049.2022.2087759). The PDF version can be accessed [here](https://github.com/thanhnoiphan/Mongolia_LUC_250m_2001_2020/blob/main/simple_fast_and_accurate_LUC.pdf).  
 
 ## Data available 
 

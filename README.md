@@ -13,7 +13,17 @@ The time series land cover data (TIF file) can be accessed at: https://doi.org/1
 or, on LMU server at: 
 
 ### Data description: 
-The land cover maps have 6 classes (land cover types), Water (0), Forest (1), Shrub land (2), Grassland (3), Others (4), and Bare land (5). Please note that water was masked out using the “JRC Global Surface Water Mapping Layers” (Pekel et al. 2016). 
+The land cover maps have 6 classes (land cover types): <br> 
+| Land Cover Types | Code | 
+|------------------|------| 
+| Water | 0 | 
+| Forest | 1 | 
+| Shrub land | 2 | 
+| Grassland | 3 | 
+| Others | 4| 
+| Bare land | 5 | 
+
+<ins> Please note that water was masked out using the “JRC Global Surface Water Mapping Layers” (Pekel et al. 2016). </ins> 
 
 
 *Reference* <br>  

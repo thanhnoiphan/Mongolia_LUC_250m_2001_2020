@@ -23,7 +23,7 @@ The land cover maps have 6 classes (land cover types): <br>
 | Others | 4| 
 | Bare land | 5 | 
 
-<ins> Please note that water was masked out using the “JRC Global Surface Water Mapping Layers” (Pekel et al. 2016). </ins> 
+*Please note that water was masked out using the “JRC Global Surface Water Mapping Layers” (Pekel et al. 2016).* 
 
 
 *Reference* <br>  
